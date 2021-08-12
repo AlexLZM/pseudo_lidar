@@ -24,6 +24,7 @@ Autnomous driving is a really hot field at the moment and there are many compani
   * Easy to implement and extend
   * Limited Receptive Field
   * Computationally costly
+
 If you are not familiar with some of the terminologies, don't worry. We are sure that you can familiar with cameras as we all use cameras on a daily basis. Our pseudo lidar is also based on camera. You will see the words "monocular" and "stereo" somewhere else; they just mean single camera and two cameras (left and right).
 
 ## Data Understanding
